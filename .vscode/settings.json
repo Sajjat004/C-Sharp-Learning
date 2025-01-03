@@ -1,0 +1,16 @@
+{
+  "workbench.colorTheme": "Learn with Sumit Official Theme",
+  "editor.tabSize": 4,
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "Operator Mono Lig Light, Fira Code Light, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 17,
+  // cursor
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  // terminal
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontFamily": "Fira Code Light, Consolas, 'Courier New', monospace",
+  "workbench.iconTheme": "material-icon-theme",
+  "git.confirmSync": false
+}
